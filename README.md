@@ -16,5 +16,5 @@
 
 ## Install
 ```
-pastebin run sz9seSNS
+pastebin run ER0aHAKY
 ```
